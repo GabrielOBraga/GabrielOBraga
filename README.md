@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GabrielOBraga/GabrielOBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  <p><i>"Você também pode ser um herói"</i></p>
+  <p><i>"👋 Vamos Trabalhar?"</i></p>
 </h1>
 
 ## 🤔 - Sobre mim
