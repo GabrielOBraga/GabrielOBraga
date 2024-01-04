@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  <p><i>"👋 Vamos Trabalhar?"</i></p>
+  <p><i>"👋 Descubra como a GOB System pode revolucionar a gestão do seu negócio!"</i></p>
 </h1>
 
 ## 🤔 - Sobre mim
