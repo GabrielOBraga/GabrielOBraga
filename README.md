@@ -57,21 +57,26 @@ No momento, as áreas da tecnologia que eu mais estou interessado são:
 
 ## 📈 - Status de Trabalho
 
-![Overview](https://github.com/GabrielOBraga/github-stats-transparent/blob/output/generated/overview.svg)
-![Languages](https://github.com/GabrielOBraga/github-stats-transparent/blob/output/generated/languages.svg)
+
 
 ## ⏳ - Projetos atuais
 
 Então, eu estou trabalhando em:
 
-* Bot do Projeto Hanna (*como sempre*)
-* Fan Game 2D do jogo Doki Doki Literature Club (**em breve**)
-* Sabre de Luz com Arduino (baseado em [FXSaberOs](https://github.com/Protonerd/FX-SaberOS))
+* Agendamento e Recuperação de Clientes
+    Nicho: Clínicas de Estética e Odontologia
+    ChatBot IA para WhatsApp para ler a agenda do Google Calendar do doutor(a).
+    Negociar horários livres com o paciente usando linguagem natural (IA).
+    Enviar lembretes automáticos para evitar "no-show" (cliente que falta).
+    Reativar inativos: Mandar mensagem para quem não vem há 6 meses oferecendo uma limpeza/avaliação (isso gera dinheiro imediato para a clínica).
+  
+* Gestão de Reputação Local
+    Destinado a negócios locais (pizzarias, mecânicas) dependem 100% do Google Maps. Uma avaliação ruim destrói o movimento da semana. Eles não sabem como pedir avaliações ou responder às ruins.
 
 ## 📞 - Entre em contato
 
 Me siga nas redes sociais:
 
-* [Website](https://www.marcusnatrielli.com/)
+* [Website](https://www.gobsystem.dev)
 * [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-braga)
 * [Instagram](https://www.instagram.com/gob.system/)
