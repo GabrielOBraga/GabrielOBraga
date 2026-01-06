@@ -1,82 +1,88 @@
-<!--
-**GabrielOBraga/GabrielOBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-📌 - [English version](https://github.com/InfiniteMarcus/Infinitemarcus/blob/main/README.md)
-
--->
-
-
-<h1 align="center">
-  <p><i>"👋 Descubra como a GOB System pode revolucionar a gestão do seu negócio!"</i></p>
-</h1>
-
-## 🤔 - Sobre mim
-
-Olá!
-
-Meu nome é Gabriel Braga cursei Ciência da Computação na Instituto Federal de Goias - Campus Anápolis (IFG-Anápolis), entrei na primeira turma em 2016, onde fui primeiro Presidente do Centro Acadêmico do Curso. [BCC IFG](https://bcc.ifg.edu.br/), então dê uma olhada!.
-
-No momento, as áreas da tecnologia que eu mais estou interessado são:
-* **Desenvolvimento Web**
-* **Inteligência Artificial**
-* **Desenvolvimento de Jogos**
-
-## 🤓 - (Algumas das) Minhas Tecnologias Favoritas
-
-### Principais
-* **>>> Django <<<**
-* **Python**
-* **Docker**
-* **Celery**
-* **Mods para Jogos** (como principal Minecraft, GTA e WoW Classic)
-* **Javascript**
-* **TypeScript**
-* **React.js**
-* **Next.js**
-
-
-### Outras
-* **C/C++**
-* **SQL**
-* **NOSQL**
-* **HTML**
-* **CSS**
-* **Arduino**
-
-## 📈 - Status de Trabalho
-
-
-
-## ⏳ - Projetos atuais
-
-Então, eu estou trabalhando em:
-
-* Agendamento e Recuperação de Clientes
-    Nicho: Clínicas de Estética e Odontologia
-    ChatBot IA para WhatsApp para ler a agenda do Google Calendar do doutor(a).
-    Negociar horários livres com o paciente usando linguagem natural (IA).
-    Enviar lembretes automáticos para evitar "no-show" (cliente que falta).
-    Reativar inativos: Mandar mensagem para quem não vem há 6 meses oferecendo uma limpeza/avaliação (isso gera dinheiro imediato para a clínica).
+<div align="center">
+  <h1>Gabriel Braga</h1>
+  <h3>Senior Full Stack Engineer | Python & Django Expert</h3>
   
-* Gestão de Reputação Local
-    Destinado a negócios locais (pizzarias, mecânicas) dependem 100% do Google Maps. Uma avaliação ruim destrói o movimento da semana. Eles não sabem como pedir avaliações ou responder às ruins.
+  <p>
+    <a href="https://www.linkedin.com/in/gabriel-oliveira-braga">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.gobsystem.cloud">
+      <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:seuemail@exemplo.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-## 📞 - Entre em contato
+---
 
-Me siga nas redes sociais:
+## 👨‍💻 Sobre
+Engenheiro de Software com **7+ anos de experiência** focados na construção de aplicações web escaláveis e sistemas de alta performance. 
 
-* [Website](https://www.gobsystem.cloud)
-* [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-braga)
-* [Instagram](https://www.instagram.com/gob.system/)
+Especialista no ecossistema **Python (Django/Celery)** e **JavaScript Moderno (Next.js/React)**, atuo desenhando arquiteturas que integram Inteligência Artificial e automação de processos complexos.
+
+Minha trajetória inclui liderança técnica, fundação acadêmica sólida (Ciência da Computação - IFG) e uma obsessão por código limpo, testável e conteinerizado.
+
+## 🛠 Tech Stack & Arquitetura
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+        <br>Django
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>Postgres
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <br>Redis
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Domínio Técnico
+- **Backend:** API Design (DRF/FastAPI), Async Processing (Celery/RabbitMQ), Microservices.
+- **Frontend:** Server-Side Rendering (Next.js), State Management, TypeScript.
+- **AI Integration:** RAG (Retrieval-Augmented Generation), LLM Agents, Automation.
+- **DevOps:** CI/CD Pipelines, Docker Compose, Nginx.
+
+---
+
+## 🚀 Projetos em Destaque (Current Focus)
+
+### 🤖 AI Appointment Agent
+**Stack:** Python, OpenAI API, Google Calendar API, WhatsApp Business API.
+> Sistema de agendamento autônomo para clínicas de alta demanda.
+> - **NLU (Natural Language Understanding):** Negocia horários complexos via WhatsApp sem intervenção humana.
+> - **Retenção:** Automação de reativação para clientes inativos (+6 meses) e redução de "no-show".
+
+### ⭐ Local Reputation Manager
+**Stack:** Django, Celery, Google Places API.
+> Plataforma SaaS para gestão automatizada de reputação digital.
+> - **Automação:** Monitoramento em tempo real de avaliações no Google Maps.
+> - **Resposta Inteligente:** Sugestão de respostas baseadas em contexto e sentimento da avaliação.
