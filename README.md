@@ -18,7 +18,7 @@
 ---
 
 ## 👨‍💻 Sobre
-Engenheiro de Software com **7+ anos de experiência** focados na construção de aplicações web escaláveis e sistemas de alta performance. 
+Engenheiro de Software com **6+ anos de experiência** focados na construção de aplicações web escaláveis e sistemas de alta performance. 
 
 Especialista no ecossistema **Python (Django/Celery)** e **JavaScript Moderno (Next.js/React)**, atuo desenhando arquiteturas que integram Inteligência Artificial e automação de processos complexos.
 
