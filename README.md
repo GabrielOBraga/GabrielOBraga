@@ -3,13 +3,13 @@
   <h3>Senior Full Stack Engineer | Python & Django Expert</h3>
   
   <p>
-    <a href="https://www.linkedin.com/in/gabriel-oliveira-braga">
+    <a href="https://www.linkedin.com/in/gabrielobraga">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.gobsystem.cloud">
       <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:seuemail@exemplo.com">
+    <a href="mailto:contato@gobsystem.cloud">
       <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
     </a>
   </p>
