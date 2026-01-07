@@ -69,7 +69,7 @@ Minha trajetória inclui liderança técnica, fundação acadêmica sólida (Ci�
 - **Backend:** API Design (DRF/FastAPI), Async Processing (Celery/RabbitMQ), Microservices.
 - **Frontend:** Server-Side Rendering (Next.js), State Management, TypeScript.
 - **AI Integration:** RAG (Retrieval-Augmented Generation), LLM Agents, Automation.
-- **DevOps:** CI/CD Pipelines, Docker Compose, Nginx.
+- **DevOps:** CI/CD Pipelines, Docker Compose, Nginx, AWS Lambda.
 
 ---
 
